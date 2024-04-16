@@ -9,6 +9,12 @@ I thrive on turning raw data into actionable insights and love exploring the end
 
 💥 I’m looking to collaborate on data projects.
 
+## Contact Me 📫
+
+Feel free to reach out to me via:
+
+- Email: [mailto:khd.chahidi@gmail.com]
+- LinkedIn: [www.linkedin.com/in/khadija-chahidi-9a0738197]
 
 
 
