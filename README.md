@@ -13,8 +13,8 @@ I thrive on turning raw data into actionable insights and love exploring the end
 
 Feel free to reach out to me via:
 
-- Email: [mailto:khd.chahidi@gmail.com]
-- LinkedIn: [www.linkedin.com/in/khadija-chahidi-9a0738197]
+- Email: mailto:khd.chahidi@gmail.com
+- LinkedIn: www.linkedin.com/in/khadija-chahidi-9a0738197
 
 
 
