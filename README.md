@@ -6,6 +6,7 @@ Hey there! 👋 I'm Khadija CHAHIDI, a Data Engineer with a passion for cutting-
 I thrive on turning raw data into actionable insights and love exploring the endless possibilities that AI offers.
 
 👩‍💻 I’m currently diving into LLMs World.
+
 💥 I’m looking to collaborate on data projects.
 
 
