@@ -13,7 +13,6 @@ I thrive on turning raw data into actionable insights and love exploring the end
 #### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) 
 ![Shell](https://img.shields.io/badge/Shell-%231DAF00.svg?style=flat-square&logo=gnu-bash&logoColor=white) 
 ![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=flat-square&logo=oracle&logoColor=white) 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
