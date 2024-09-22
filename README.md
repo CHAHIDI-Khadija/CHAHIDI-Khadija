@@ -12,7 +12,6 @@ I thrive on turning raw data into actionable insights and love exploring the end
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) 
 ![Shell](https://img.shields.io/badge/Shell-%231DAF00.svg?style=flat-square&logo=gnu-bash&logoColor=white) 
@@ -38,7 +37,7 @@ I thrive on turning raw data into actionable insights and love exploring the end
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-5A2D3A?style=flat-square&logo=google&logoColor=white) 
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-## Data Science
+#### Data Science
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=flat-square&logo=tensorflow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) 
